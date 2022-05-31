@@ -16,10 +16,12 @@ Steps to run:
 
 1. Open the folder on Visual studio code
 2. Start android emulator/use real device
-3. Run flutter clean
-4. Run fluttear run
-5. Debug the app if you prefer
-6. Once it runs, scroll down/up to see the pokemon list. 
+3. Open CMD 
+4. Run flutter pub get
+5. Run flutter clean
+6. Run fluttear run
+7. Debug the app if you prefer
+8. Once it runs, scroll down/up to see the pokemon list. 
 
 ***************************************************************************************************************
 
